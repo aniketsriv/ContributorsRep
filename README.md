@@ -4,7 +4,7 @@ Welcome to the world of Hacktoberfest. Feeling scared from Open Source? Don't wo
 The repository welcome all the enthusiast to begin their initial PRs.
 The repository contains:
 1. NewWords.txt contains list of words with their meaning.
-2. NewMovies.txt contains sci-fi movies releasing in 2020 & 2021.
+2. NewMovies.txt contains movies releasing in 2020 & 2021 separated by genres.
 3. NewMusic.txt contains list of music releasing in 2020 & 2021 separated by genres.
 
 Feel free to add your own .txt files to the repository
